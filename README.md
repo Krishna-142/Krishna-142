@@ -31,7 +31,7 @@
 
 ⚡ **Competitive Programming & DSA** → Active problem solver with 900+ solved problems across LeetCode, Codeforces, and CodeChef.  
 
-🤖 **AI/ML & GenAI** → Hands-on experience in ML, DL, CNN, TensorFlow; currently exploring LLMs, RAG systems, and Generative AI workflows.  
+🤖 **AI/ML & GenAI** → Hands-on experience in ML, DL, CNN; currently exploring LLMs, RAG systems, and Generative AI workflows.  
 
 🌱 **Always Learning** → Passionate about learning new technologies, contributing to impactful projects, and continuously improving.  
 
