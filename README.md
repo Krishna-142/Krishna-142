@@ -37,14 +37,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishna-142&theme=tokyonight&hide_border=true&show_icons=true" height="160"/>  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Krishna-142&theme=tokyonight&hide_border=true" height="160"/>  
-</p>  
-
----
 
 ## 📫 Connect With Me  
 
