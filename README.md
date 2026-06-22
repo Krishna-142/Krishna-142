@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krishan Veer Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Scalable+Systems;Exploring+AI+%26+CP+Enthusiast;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Scalable+Systems;Exploring+AI+%26+Competitive+Programming;Always+Learning+🚀" />
 </p>
 
 ---
